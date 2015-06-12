@@ -1,0 +1,84 @@
+
+/* line 1 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/stylus/lib/functions/index.styl */
+
+/* line 14 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/index.styl */
+
+/* line 14 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/border.styl */
+
+/* line 11 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/clearfix.styl */
+
+/* line 1 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/color-image.styl */
+
+/* line 5 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/flex.styl */
+
+/* line 91 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/gradients.styl */
+
+/* line 91 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/config.styl */
+
+/* line 1 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/iconic.styl */
+
+/* line 8 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/image.styl */
+
+/* line 26 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/overflow.styl */
+
+/* line 3 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/positions.styl */
+
+/* line 3 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/reset.styl */
+
+/* line 6 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/text/index.styl */
+
+/* line 6 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/text/aliases.styl */
+
+/* line 13 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/text/ellipsis.styl */
+
+/* line 10 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/text/hide-text.styl */
+
+/* line 9 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/text/replace-text.styl */
+
+/* line 1 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/text/shadow-stroke.styl */
+
+/* line undefined : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/vendor.styl */
+
+/* line 578 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/config.styl */
+
+/* line 12 : /Volumes/backpack/git/visitoutpost/clockfunk/node_modules/polvo/node_modules/polvo-stylus/node_modules/nib/lib/nib/size.styl */
+
+/* line 1 : /Volumes/backpack/git/visitoutpost/clockfunk/src/stylus/app.styl */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* line 6 : /Volumes/backpack/git/visitoutpost/clockfunk/src/stylus/app.styl */
+body {
+  background: #222;
+  color: #dedede;
+  font-family: 'Georgia';
+}
+
+/* line 12 : /Volumes/backpack/git/visitoutpost/clockfunk/src/stylus/app.styl */
+.square {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 1;
+  width: 10px;
+  height: 10px;
+  background: #cf0;
+}
+
+/* line 22 : /Volumes/backpack/git/visitoutpost/clockfunk/src/stylus/app.styl */
+.bpm {
+  position: absolute;
+  left: 0;
+  bottom: 15px;
+  color: #000;
+}
+
+/* line 26 : /Volumes/backpack/git/visitoutpost/clockfunk/src/stylus/app.styl */
+#canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
